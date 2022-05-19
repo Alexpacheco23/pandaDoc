@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.listDocument{
+    margin-left:30px;
+}
+#title__seccion{
+    text-align: center;
+    width:100%;
+    height:100px;
+    padding: 15px 0px 0px 0px;
+}
+#title__seccion h1{
+    font-family:Impact;
+}
+
+.tab-content{
+    width: 80%;
+   
+}
+
+.table {
+   text-align: center;
+   overflow: scroll;
+
+}
+.table tbody{
+    height: 50px;
+}
+
