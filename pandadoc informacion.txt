@@ -1,0 +1,16 @@
+reunion con martha
+
+1)ya generan planilla solo necesitan envio de documento
+2)tomar el espacio para la firma
+3)EL ARCHIVO SE ENVIA COMO PDFEL ARCHIVO SE ENVIA COMO PDF
+
+perdir acceso
+tomar permisos para pruebas
+
+
+pasos para gennerar por plantilla
+
+1) se carga el pdf como plantilla
+2) se lista la plantilla
+3) usar endpoid para crear plantilla
+4) y luedo enviar documento

@@ -1,0 +1,22 @@
+1)envudo de ventas
+2)columna wong
+4)
+5)reporte de los documentos enviado con los datos de la persona
+6)notificar negociacion
+6)realizar metodo de pago por pandadoc metodo de pago braiitree
+
+tomar nota
+1)subir archivo externo junto a la firma
+2)hacer prueba con enviar plantilla
+3)
+
+tarea de programacion
+documentar el codigo
+
+objetivo
+tarea
+1)subir y listar externo
+2)y plantilla
+3)filtrar plantilla y documento externo
+4)subir con el recipiente
+5)crear enpoint para enviar y asociar recipiente
